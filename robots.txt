@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Pages exclues de l'indexation (confirmation formulaire)
+Disallow: /Support-Informatique-Services/contactbis.html
+
+# Sitemap
+Sitemap: https://berardannelaure.github.io/Support-Informatique-Services/sitemap.xml
